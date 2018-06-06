@@ -16,7 +16,7 @@
 title: Resident Geek Reviews
 description: >- # this means to ignore newlines until "baseurl:"
   Reviews of various products - some provided for free.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://review.danielrs.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: Daniel Smith
 twitter_username: danielrsmith
