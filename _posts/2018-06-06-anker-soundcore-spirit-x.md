@@ -2,7 +2,6 @@
 layout: post
 title: Anker Soundcore Spirit X
 date: 2018-06-06 17:14 -0400
-author: Daniel Smith
 tags: Anker Free-Product
 ---
 
