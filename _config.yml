@@ -28,6 +28,8 @@ markdown: kramdown
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
 repository: danielrsmith/reviews
 permalink: pretty
 

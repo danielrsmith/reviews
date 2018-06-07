@@ -248,8 +248,10 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-compose
-  jekyll-feed (~> 0.6)
+  jekyll-feed
+  jekyll-sitemap
   jekyll-theme-hacker
+  jemoji
   minima (~> 2.0)
   tzinfo-data
 

@@ -27,7 +27,10 @@ layout: default
 </div>
 {% if page.product_url %}
 <div class="product-link">
-  <a href="{{page.product_url}}">{{page.title}} on {{page.product_url_vendor}}</a>
+  {% assign vendor = page.product_url | split: "/" %}
+  {% assign vendor = vendor[2] | split: "." %}
+  {% assign vendor = vendor[1] | capitalize %}
+  <a href="{{page.product_url}}">{{page.title}} on {{vendor}}</a>
 </div>
 {% endif %}
 

@@ -2,10 +2,11 @@
 layout: review
 title: Anker Soundcore Spirit X
 date: 2018-06-06 17:14 -0400
-tags: Anker Free-Product
+tags:
+  - Anker
+  - Free Product
 rating: 4.5
 product_url: https://www.amazon.com/Soundcore-Earphones-Bluetooth-SweatGuard-Technology/dp/B07B9R67WR
-product_url_vendor: Amazon
 ---
 
 This product review came with a lot of hesitation because I am very picky when it

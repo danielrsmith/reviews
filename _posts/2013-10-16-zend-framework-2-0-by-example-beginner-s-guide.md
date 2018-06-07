@@ -3,7 +3,13 @@ layout: review
 title: 'Zend Framework 2.0 by Example: Beginner''s Guide'
 date: 2013-10-16 19:20 -0400
 rating: 4
-tags: Free-Product Book PHP Zend
+tags:
+  - Free Product
+  - Book
+  - PHP
+  - Zend
+product_url: https://www.amazon.com/Zend-Framework-2-0-Example-Beginners/dp/1782161929
+
 ---
 Occasionally I am asked to review a software development book and I am always happy to do so, as I don't get to read nearly as much as I'd like. Today's book is a subject I am very well versed in, Zend Framework. "Zend Framework 2.0 by Example: Beginner's Guide" by Krishna Shasankar V is a newer book available from the fine folks over at Packt Publishing. This is the first book I have read that covers the 2.0 branch of the Zend Framework. As some of you might remember I started using Zend over 5 years ago on a huge SaaS based platform, and I have kept up with the development of this MVC framework ever since.
 
