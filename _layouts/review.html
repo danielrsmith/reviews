@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<small>{{ page.date | date: "%B %-d %Y" }}</small>
+<h1>{{ page.title }}</h1>
+{% assign author = page.author | default: site.author %}
+<p class="view">by {{ author }}</p>
+
+{% if page.rating %}
+<div class="rating">
+  {% assign rating = page.rating | plus: 0 %}
+  {% assign rating_int = rating | floor %}
+  {% for i in (1..rating_int) %}
+  <i class="fas fa-star"></i>
+  {% endfor %}
+  {% if rating != rating_int %}
+  <i class="fas fa-star-half"></i>
+  {% endif %}
+</div>
+{% endif %}
+
+{{content}}
+
+<div class="signature">
+  -{{ author | truncatewords: 1, "" }}
+</div>
+{% if page.product_url %}
+<div class="product-link">
+  <a href="{{page.product_url}}">{{page.title}} on {{page.product_url_vendor}}</a>
+</div>
+{% endif %}
+
+{% if page.tags %}
+  <small>tags: <em><i class="fas fa-tag"></i> {{ page.tags | join: "</em> | <i class='fas fa-tag'></i> <em>" }}</em></small>
+{% endif %}

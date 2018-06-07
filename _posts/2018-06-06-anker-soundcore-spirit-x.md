@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: review
 title: Anker Soundcore Spirit X
 date: 2018-06-06 17:14 -0400
 tags: Anker Free-Product
+rating: 4.5
+product_url: https://www.amazon.com/Soundcore-Earphones-Bluetooth-SweatGuard-Technology/dp/B07B9R67WR
+product_url_vendor: Amazon
 ---
 
 This product review came with a lot of hesitation because I am very picky when it
@@ -22,7 +25,3 @@ Things I need to verify still:
   important as most earbuds annoy me after an hour or so)
 
 So check back and see what comes of this.
-
--Daniel
-
-[Anker Soundcore Spirit X on Amazon](https://www.amazon.com/Soundcore-Earphones-Bluetooth-SweatGuard-Technology/dp/B07B9R67WR)
