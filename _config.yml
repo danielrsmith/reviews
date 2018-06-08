@@ -22,6 +22,7 @@ author: Daniel Smith
 twitter_username: danielrsmith
 show_github: false
 show_downloads: false
+google_analytics_tracking_id: UA-3911154-7
 
 # Build settings
 markdown: kramdown
