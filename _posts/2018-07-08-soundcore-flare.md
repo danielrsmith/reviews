@@ -17,4 +17,4 @@ The speaker is decent size, easy to set up, and waterproof (IPX7.)  I have yet t
 
 Anker is also touting a mobile app for tuning this speaker.  I haven't put too much time in to playing with the app - but it seemed pretty basic.  You can control the LED light and also set different playback EQ modes.
 
-All in all - this a fine speaker for it's price point.
+All in all - this a fine speaker for its price point.
