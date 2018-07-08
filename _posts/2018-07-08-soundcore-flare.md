@@ -1,6 +1,6 @@
 ---
 layout: review
-title: Soundcore Flare
+title: Soundcore Flare Portable Bluetooth 360° Speaker
 date: 2018-07-08 11:05 -0400
 tags:
   - Anker
