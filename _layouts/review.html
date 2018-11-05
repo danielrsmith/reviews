@@ -29,7 +29,11 @@ layout: default
 <div class="product-link">
   {% assign vendor = page.product_url | split: "/" %}
   {% assign vendor = vendor[2] | split: "." %}
-  {% assign vendor = vendor[1] | capitalize %}
+  {% if page.vendor_name %}
+    {% assign vendor = page.vendor_name %}
+  {% else %}
+    {% assign vendor = vendor[1] | capitalize %}
+  {% endif %}
   <a href="{{page.product_url}}">{{page.title}} on {{vendor}}</a>
 </div>
 {% endif %}
