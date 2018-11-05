@@ -12,7 +12,7 @@ rating: 5.0
 product_url: https://www.owcdigital.com/products/thunderbolt-3-dock-14-port
 vendor_name: OWC
 ---
-## Thoughts
+## "Great Expansion for a MacBook Pro User!"
 
 Let me start off by saying - this is my first OWC product - and I love it.  First impressions are great!
 
