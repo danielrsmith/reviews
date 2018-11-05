@@ -34,7 +34,7 @@ Other ports to mention are the super convenient headphone jack (which from what 
 
 ## Cons
 * Cost - this one isn't priced for everyone to have.
-* There is a slight whine when plugging in a bus powered device in the back USB ports (OWC is currently working on this with me)
+* There is a slight whine when plugging in a bus powered device in the back USB ports (OWC is currently working on this with me)^
 
 <br/><br/>
 
@@ -48,6 +48,6 @@ All in all - this is a fantastic device, I have had 0 issues with it from a work
 <br/><br/>
 
 
-_Note on the "whine when plugging in a bus powered devise" in the cons section:  I have tried a few devices to confirm this and it only happens if the device isn't self-powered (like a hard-drive with it's own power supply), and you can easily work around this by using the front USB port until OWC releases a fix._
+_^ Note on the "whine when plugging in a bus powered devise" in the cons section:  I have tried a few devices to confirm this and it only happens if the device isn't self-powered (like a hard-drive with it's own power supply), and you can easily work around this by using the front USB port until OWC releases a fix._
 
 _I am also currently working with OWC on this issue, and will provide an update as soon as I have one._
