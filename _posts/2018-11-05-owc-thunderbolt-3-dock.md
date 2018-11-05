@@ -41,12 +41,13 @@ Other ports to mention are the super convenient headphone jack (which from what 
 
 All in all - this is a fantastic device, I have had 0 issues with it from a workflow perspective.  I am able to plug my laptop in to it and it just recognizes all of the gear that is plugged in and works.  I would highly recommend it to anyone who is looking for a dock with a wide list of ports and who also needs 85W to keep their laptop charging while running at full load.  I have also looked a bunch of different offerings - and none of them seem to have the right port configuration - until now.
 
-<br/><br/><br/><br/>
+<br/><br/>
+![]({{ site.url }}/assets/TB3-Dock-1.jpg){:width="300px"}
+![Unboxed]({{ site.url }}/assets/TB3-Dock-2.jpg){:width="300px"}
+![Setup]({{ site.url }}/assets/TB3-Dock-3.jpg){:width="300px"}
+<br/><br/>
 
 
 _Note on the "whine when plugging in a bus powered devise" in the cons section:  I have tried a few devices to confirm this and it only happens if the device isn't self-powered (like a hard-drive with it's own power supply), and you can easily work around this by using the front USB port until OWC releases a fix._
 
 _I am also currently working with OWC on this issue, and will provide an update as soon as I have one._
-
-![]({{ site.url }}/assets/TB3-Dock-1.jpg)
-![Unboxed]({{ site.url }}/assets/TB3-Dock-2.jpg)
