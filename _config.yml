@@ -23,6 +23,7 @@ twitter_username: danielrsmith
 show_github: false
 show_downloads: false
 google_analytics_tracking_id: UA-3911154-7
+google_adsense_client_id: ca-pub-4166082517114459
 
 # Build settings
 markdown: kramdown
